@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🙋‍♀️ We are passionate to help our clients to bring out a positive message to engage with their targeted market throughout the online market.
-👩‍💻 We are experienced, innovative and keep close to digital updates, to provide better web solutions to our clients.
+- 🙋‍♀️ We are passionate to help our clients toCancel changes bring out a positive message to engage with their targeted market throughout the online market.
+- 👩‍💻 We are experienced, innovative and keep close to digital updates, to provide better web solutions to our clients.
 
 <!--
 
