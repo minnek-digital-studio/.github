@@ -1,15 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://minnekdigital.com/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://assets.minnekdigital.com/logo-md.jpg">
+      <img alt="Minnek Logo" src="https://assets.minnekdigital.com/logo-md.jpg">
+    </picture>    
+  </a>
+</p>
 
-* 🙋‍♀️ We are passionate to help our clients to bring out a positive message to engage with their targeted market throughout the online market.
-* 👩‍💻 We are experienced, innovative and keep close to digital updates, to provide better web solutions to our clients.
+<h2 align="center">
+  We are passionate to help our clients to bring out a positive message
+</h2>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+  <a href="https://minnekdigital.com/services/">Our Services</a>
+  ·
+  <a href="https://minnekdigital.com/work/">Our Work</a>
+  ·
+  <a href="https://minnekdigital.com/careers">Join Us</a>
+</p>
